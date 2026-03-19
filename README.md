@@ -4,12 +4,14 @@ This project is a computer engineering quiz interface created in Figma. It inclu
 This project is a 💻 UI/UX design prototype of a quiz application, created in Figma as part of a 🎓 college mini-project for educational purposes.
 
 📌 It includes:
+
  🟢 Quiz start screen
  ❓ Multiple-choice question screens
  🔄 Navigation between questions
  🎨 Simple and clean UI layout
  
  ✨ Features:
+ 
 👍 Easy-to-use and interactive interface
 🧩 Clean and organized design
 🔁 Smooth navigation between screens
@@ -17,6 +19,7 @@ This project is a 💻 UI/UX design prototype of a quiz application, created in 
 📚 Suitable for academic and learning purposes
 
 🛠️ Tools Used:
+
 🔧 Figma
 🎨 UI/UX design principles
 
